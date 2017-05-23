@@ -5,6 +5,6 @@
 
 ## Structure
 
-/examples = SQL create script and SQL example DB
-/src      = source code
-/doc      = project documentation - generated using apigen
+* /examples = SQL create script and SQL example DB
+* /src      = source code
+* /doc      = project documentation - generated using apigen
